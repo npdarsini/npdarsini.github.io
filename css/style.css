@@ -358,6 +358,9 @@ ul.list-check li::before {
 	padding: 0 15px;
 }
 
+.priyaAlign {
+	text-align: justify;
+}
 .intro h1{
 	font-size: 60px;
 	line-height: 80px;
